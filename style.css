@@ -62,13 +62,14 @@
 }
 .search-select {
   /* border-radius: 3px; */
-  width: 50px;
+  width: 75px;
   text-align: center;
   background-color: #f3f3f3;
   border-top-left-radius: 3px;
   border-bottom-left-radius: 3px;
   border: none;
 }
+
 .search-inp {
   width: 100%;
   font-size: 1rem;
@@ -220,6 +221,7 @@ span {
   color: #157c8f;
   padding-top: 30px;
   cursor: pointer;
+ 
 }
 .box h2 {
   font-size: 1.25rem;
@@ -272,6 +274,7 @@ footer {
 ul p {
   display: block;
   color: #90949b;
+  margin-top: 15px;
 }
 ul h3 {
   color: #bdc1c5;
@@ -303,11 +306,11 @@ ul h3 {
   justify-content: center;
   align-items: center;
   position: relative;
-  top: 3px;
+  bottom: 10px;
 }
 /* For pannel 5 */
 .foot-pannel5 {
-  height: 25px;
+  height: 30px;
   background-color: #18202a;
   display: flex;
   justify-content: center;
